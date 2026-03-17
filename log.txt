@@ -18,7 +18,7 @@ base 84 commits.
 base 83 commits.
 base 82 commits.
 base 81 commits.
-base 80 commits
+base 80 commits.
 base 79 commits.
 base 78 commits.
 base 77 commits.
